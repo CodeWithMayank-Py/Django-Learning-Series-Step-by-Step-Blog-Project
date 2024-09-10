@@ -22,7 +22,7 @@ Check out our detailed roadmap to track your progress and follow the series step
 - **Understanding the File Structure**
 - **Creating and Running a Simple Hello World Example**
 
-🎥 **Watch the Day 1 Video Here:** [YouTube Link](#)
+🎥 **Watch the Day 1 Video Here:** [YouTube Link](https://youtu.be/IDgiOnQIrDw)
 
 
 ---
