@@ -40,7 +40,7 @@ Check out our detailed roadmap to track your progress and follow the series step
 
 ---
 
-## Day 2: Mastering the Django Admin Interface
+## Day 3: Mastering the Django Admin Interface
 
 ### Topics Covered:
 - **Intro to Django Admin Interface**
@@ -49,7 +49,7 @@ Check out our detailed roadmap to track your progress and follow the series step
 - **Customizing the Admin Interface**
 - **Managing Entries and Using the Admin Dashboard**
 
-🎥 **Watch the Day 2 Video Here:** [YouTube Link](https://youtu.be/Y9Od6Fv5jl4) 
+🎥 **Watch the Day 3 Video Here:** [YouTube Link](https://youtu.be/Y9Od6Fv5jl4) 
 
 ---
 
