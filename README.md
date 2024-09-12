@@ -27,6 +27,19 @@ Check out our detailed roadmap to track your progress and follow the series step
 
 ---
 
+## Day 2: Working with Django Models
+
+### Topics Covered:
+- **Intro to Django Models**
+- **Defining Models**
+- **Model Methods**
+- **Playing with the Database API**
+- **Example: Creating and Managing Blog Records**
+
+🎥 **Watch the Day 2 Video Here:** [YouTube Link](https://youtu.be/RqC33dVcTys) 
+
+---
+
 ### Follow Us:
 
 - **YouTube:** [Coding Craft](https://www.youtube.com/@codingcraft)
