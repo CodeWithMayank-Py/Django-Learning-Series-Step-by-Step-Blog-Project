@@ -40,6 +40,19 @@ Check out our detailed roadmap to track your progress and follow the series step
 
 ---
 
+## Day 2: Mastering the Django Admin Interface
+
+### Topics Covered:
+- **Intro to Django Admin Interface**
+- **Creating and Configuring the Admin User**
+- **Registering Models with Admin Interface**
+- **Customizing the Admin Interface**
+- **Managing Entries and Using the Admin Dashboard**
+
+🎥 **Watch the Day 2 Video Here:** [YouTube Link](https://youtu.be/Y9Od6Fv5jl4) 
+
+---
+
 ### Follow Us:
 
 - **YouTube:** [Coding Craft](https://www.youtube.com/@codingcraft)
