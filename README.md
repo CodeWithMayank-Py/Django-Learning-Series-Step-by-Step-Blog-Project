@@ -53,6 +53,19 @@ Check out our detailed roadmap to track your progress and follow the series step
 
 ---
 
+## Day 4: Diving into Django Views
+
+### Topics Covered:
+- **Introduction to Django Views**
+- **Function-Based Views (FBVs) vs Class-Based Views (CBVs)**
+- **Rendering Templates with Views**
+- **Context Data in Views**
+- **Example: Displaying All Blog Posts Using FBVs and CBVs**
+
+🎥 **Watch the Day 4 Video Here:** [YouTube Link](https://youtu.be/kzf5B5ssqaQ)
+
+---
+
 ### Follow Us:
 
 - **YouTube:** [Coding Craft](https://www.youtube.com/@codingcraft)
